@@ -1,7 +1,9 @@
 # cordova-plugin-watch-example
 Example App for 'cordova-plugin-watch' plugin by 20steps
 
-You need a Xcode version containing the watchkit SDK
+Plugin: http://github.com/20steps/cordova-plugin-watch
+
+! You need a Xcode version containing the watchkit SDK
 
 ### Configuration
 In Xcode you need to set the development team for your app target and WatchKit Extension target - for this you need a payed iOS dev account. Then add for both targets your desired *App Group* under your target *Capabilities*.
