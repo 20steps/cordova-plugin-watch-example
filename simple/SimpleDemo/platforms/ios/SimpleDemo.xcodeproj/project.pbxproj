@@ -41,9 +41,9 @@
 		7E7966E51810823500FA85AD /* icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DB1810823500FA85AD /* icon-76@2x.png */; };
 		7E7966E61810823500FA85AD /* icon-small.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DC1810823500FA85AD /* icon-small.png */; };
 		7E7966E71810823500FA85AD /* icon-small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DD1810823500FA85AD /* icon-small@2x.png */; };
-		9117E9C41A63C9300082BBE0 /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = EC16EEB367F54447BA2FAAB7 /* MMWormhole.m */; };
-		9117E9C51A63C93D0082BBE0 /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = EC16EEB367F54447BA2FAAB7 /* MMWormhole.m */; };
-		9117E9C61A63C9490082BBE0 /* CDVWatch.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C90B5BCC24A436398323ED5 /* CDVWatch.m */; };
+		9117E9C91A63DB400082BBE0 /* CDVWatch.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C90B5BCC24A436398323ED5 /* CDVWatch.m */; };
+		9117E9CA1A63DB400082BBE0 /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = EC16EEB367F54447BA2FAAB7 /* MMWormhole.m */; };
+		9117E9CB1A63DB480082BBE0 /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = EC16EEB367F54447BA2FAAB7 /* MMWormhole.m */; };
 		91FBE9901A5AD34900B67856 /* InterfaceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91FBE98F1A5AD34900B67856 /* InterfaceController.m */; };
 		91FBE9931A5AD34900B67856 /* NotificationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91FBE9921A5AD34900B67856 /* NotificationController.m */; };
 		91FBE9951A5AD34900B67856 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91FBE9941A5AD34900B67856 /* Images.xcassets */; };
@@ -455,13 +455,12 @@
 						DevelopmentTeam = B57563C9JU;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
-								enabled = 1;
+								enabled = 0;
 							};
 						};
 					};
 					91FBE9881A5AD34900B67856 = {
 						CreatedOnToolsVersion = 6.2;
-						DevelopmentTeam = B57563C9JU;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
 								enabled = 1;
@@ -592,8 +591,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9117E9C61A63C9490082BBE0 /* CDVWatch.m in Sources */,
-				9117E9C51A63C93D0082BBE0 /* MMWormhole.m in Sources */,
+				9117E9C91A63DB400082BBE0 /* CDVWatch.m in Sources */,
+				9117E9CA1A63DB400082BBE0 /* MMWormhole.m in Sources */,
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
@@ -607,7 +606,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9117E9C41A63C9300082BBE0 /* MMWormhole.m in Sources */,
+				9117E9CB1A63DB480082BBE0 /* MMWormhole.m in Sources */,
 				91FBE9931A5AD34900B67856 /* NotificationController.m in Sources */,
 				91FBE9901A5AD34900B67856 /* InterfaceController.m in Sources */,
 			);
@@ -650,7 +649,6 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_ENTITLEMENTS = SimpleDemo/SimpleDemo.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -660,7 +658,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "SimpleDemo/SimpleDemo-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					CoreFoundation,
@@ -683,7 +681,6 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_ENTITLEMENTS = SimpleDemo/SimpleDemo.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -691,7 +688,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "SimpleDemo/SimpleDemo-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					CoreFoundation,
@@ -867,7 +864,7 @@
 					"\"$(OBJROOT)/UninstalledProducts/include\"",
 					"\"$(BUILT_PRODUCTS_DIR)\"",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-weak_framework",
@@ -911,7 +908,7 @@
 					"\"$(OBJROOT)/UninstalledProducts/include\"",
 					"\"$(BUILT_PRODUCTS_DIR)\"",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					CoreFoundation,
