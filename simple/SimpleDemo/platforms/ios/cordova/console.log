@@ -1,0 +1,2438 @@
+2015-01-05 14:31:48.943 SimpleDemo[80340:2194522] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/16AFC99A-28BF-400F-9280-F2D9CE2A04E1/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:31:49.025 SimpleDemo[80340:2194522] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:31:49.025 SimpleDemo[80340:2194522] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:31:49.028 SimpleDemo[80340:2194522] Unlimited access to network resources
+2015-01-05 14:31:49.167 SimpleDemo[80340:2194522] [CDVTimer][keyboard] 0.052989ms
+2015-01-05 14:31:49.167 SimpleDemo[80340:2194522] [CDVTimer][TotalPluginStartup] 0.214040ms
+2015-01-05 14:31:49.216 SimpleDemo[80340:2194522] Resetting plugins due to page load.
+2015-01-05 14:31:49.372 SimpleDemo[80340:2194522] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/1073FABB-8A71-49F8-835C-C8F399987D3E/SimpleDemo.app/www/index.html
+2015-01-05 14:32:18.281 SimpleDemo[80542:2195304] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/C3867891-3F91-4995-A480-78B0EFAC4976/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:32:18.389 SimpleDemo[80542:2195304] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:32:18.390 SimpleDemo[80542:2195304] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:32:18.391 SimpleDemo[80542:2195304] Unlimited access to network resources
+2015-01-05 14:32:18.543 SimpleDemo[80542:2195304] [CDVTimer][keyboard] 0.054002ms
+2015-01-05 14:32:18.543 SimpleDemo[80542:2195304] [CDVTimer][TotalPluginStartup] 0.256002ms
+2015-01-05 14:32:18.612 SimpleDemo[80542:2195304] Resetting plugins due to page load.
+2015-01-05 14:32:18.787 SimpleDemo[80542:2195304] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/455BDD8E-DD06-4C77-AA9B-A2DAED9D8F0C/SimpleDemo.app/www/index.html
+2015-01-05 14:32:45.402 SimpleDemo[80737:2196074] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/A00A9E06-77C7-44DF-AAB4-295FBAE6443E/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:32:45.498 SimpleDemo[80737:2196074] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:32:45.499 SimpleDemo[80737:2196074] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:32:45.501 SimpleDemo[80737:2196074] Unlimited access to network resources
+2015-01-05 14:32:45.684 SimpleDemo[80737:2196074] [CDVTimer][keyboard] 0.056028ms
+2015-01-05 14:32:45.684 SimpleDemo[80737:2196074] [CDVTimer][TotalPluginStartup] 0.221968ms
+2015-01-05 14:32:45.747 SimpleDemo[80737:2196074] Resetting plugins due to page load.
+2015-01-05 14:32:45.905 SimpleDemo[80737:2196074] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/2C6EB560-9980-489E-BC47-7BBB5CA20683/SimpleDemo.app/www/index.html
+2015-01-05 14:32:59.833 SimpleDemo[80934:2196587] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/580BF6F6-0F60-484A-BDAF-64B5C7535415/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:32:59.924 SimpleDemo[80934:2196587] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:32:59.925 SimpleDemo[80934:2196587] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:32:59.927 SimpleDemo[80934:2196587] Unlimited access to network resources
+2015-01-05 14:33:00.114 SimpleDemo[80934:2196587] [CDVTimer][keyboard] 0.055015ms
+2015-01-05 14:33:00.114 SimpleDemo[80934:2196587] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-01-05 14:33:00.179 SimpleDemo[80934:2196587] Resetting plugins due to page load.
+2015-01-05 14:33:00.357 SimpleDemo[80934:2196587] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/34B5B15D-2CD4-40C3-81B5-A4B2340F2D1E/SimpleDemo.app/www/index.html
+2015-01-05 14:33:52.769 SimpleDemo[81294:2199278] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/7D95472D-CF1F-4E40-968B-6556D9A5F94F/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:33:52.859 SimpleDemo[81294:2199278] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:33:52.859 SimpleDemo[81294:2199278] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:33:52.861 SimpleDemo[81294:2199278] Unlimited access to network resources
+2015-01-05 14:33:53.034 SimpleDemo[81294:2199278] [CDVTimer][keyboard] 0.056982ms
+2015-01-05 14:33:53.034 SimpleDemo[81294:2199278] [CDVTimer][TotalPluginStartup] 0.221014ms
+2015-01-05 14:33:53.113 SimpleDemo[81294:2199278] Resetting plugins due to page load.
+2015-01-05 14:33:53.290 SimpleDemo[81294:2199278] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/F18C2C04-A26A-41E5-ADC9-EBD65EE49B9B/SimpleDemo.app/www/index.html
+2015-01-05 14:34:18.319 SimpleDemo[81490:2201692] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/4837F3EB-9581-4FE5-93EC-C18AE171893D/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:34:18.418 SimpleDemo[81490:2201692] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:34:18.419 SimpleDemo[81490:2201692] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:34:18.422 SimpleDemo[81490:2201692] Unlimited access to network resources
+2015-01-05 14:34:18.601 SimpleDemo[81490:2201692] [CDVTimer][keyboard] 0.052989ms
+2015-01-05 14:34:18.601 SimpleDemo[81490:2201692] [CDVTimer][TotalPluginStartup] 0.212014ms
+2015-01-05 14:34:18.662 SimpleDemo[81490:2201692] Resetting plugins due to page load.
+2015-01-05 14:34:18.819 SimpleDemo[81490:2201692] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/E2980083-DB03-4BE5-8E5A-5D8BC50C9A4C/SimpleDemo.app/www/index.html
+2015-01-05 14:34:41.399 SimpleDemo[81683:2204005] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/A9D47E43-3B07-402C-A4A4-136066ABE387/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:34:41.496 SimpleDemo[81683:2204005] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:34:41.496 SimpleDemo[81683:2204005] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:34:41.499 SimpleDemo[81683:2204005] Unlimited access to network resources
+2015-01-05 14:34:41.682 SimpleDemo[81683:2204005] [CDVTimer][keyboard] 0.077963ms
+2015-01-05 14:34:41.683 SimpleDemo[81683:2204005] [CDVTimer][TotalPluginStartup] 0.313997ms
+2015-01-05 14:34:41.751 SimpleDemo[81683:2204005] Resetting plugins due to page load.
+2015-01-05 14:34:41.916 SimpleDemo[81683:2204005] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/F66B682C-1D02-4F19-8DBD-F880E679C6A4/SimpleDemo.app/www/index.html
+2015-01-05 14:34:55.998 SimpleDemo[81875:2206289] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/C20B2261-24D7-4B72-A0E8-A09A44BF06F1/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:34:56.090 SimpleDemo[81875:2206289] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:34:56.091 SimpleDemo[81875:2206289] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:34:56.093 SimpleDemo[81875:2206289] Unlimited access to network resources
+2015-01-05 14:34:56.277 SimpleDemo[81875:2206289] [CDVTimer][keyboard] 0.075996ms
+2015-01-05 14:34:56.277 SimpleDemo[81875:2206289] [CDVTimer][TotalPluginStartup] 0.310004ms
+2015-01-05 14:34:56.339 SimpleDemo[81875:2206289] Resetting plugins due to page load.
+2015-01-05 14:34:56.532 SimpleDemo[81875:2206289] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/D7DF65BC-085C-457A-8DE3-1643079A21F9/SimpleDemo.app/www/index.html
+2015-01-05 14:35:13.490 SimpleDemo[82066:2208909] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/AE192C47-989C-4FD6-98B1-269A3D9ACD8D/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:35:13.637 SimpleDemo[82066:2208909] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:35:13.638 SimpleDemo[82066:2208909] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:35:13.640 SimpleDemo[82066:2208909] Unlimited access to network resources
+2015-01-05 14:35:13.829 SimpleDemo[82066:2208909] [CDVTimer][keyboard] 0.074983ms
+2015-01-05 14:35:13.829 SimpleDemo[82066:2208909] [CDVTimer][TotalPluginStartup] 0.308990ms
+2015-01-05 14:35:13.892 SimpleDemo[82066:2208909] Resetting plugins due to page load.
+2015-01-05 14:35:14.047 SimpleDemo[82066:2208909] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/2F747203-5605-45E2-9A1F-91ADCD5D499F/SimpleDemo.app/www/index.html
+2015-01-05 14:35:33.264 SimpleDemo[82261:2209973] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/B215FCCF-FB03-4E57-9596-E28187C7AB0A/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:35:33.385 SimpleDemo[82261:2209973] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:35:33.385 SimpleDemo[82261:2209973] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:35:33.388 SimpleDemo[82261:2209973] Unlimited access to network resources
+2015-01-05 14:35:33.577 SimpleDemo[82261:2209973] [CDVTimer][keyboard] 0.079989ms
+2015-01-05 14:35:33.577 SimpleDemo[82261:2209973] [CDVTimer][TotalPluginStartup] 0.308990ms
+2015-01-05 14:35:33.637 SimpleDemo[82261:2209973] Resetting plugins due to page load.
+2015-01-05 14:35:33.798 SimpleDemo[82261:2209973] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/C9CDCE71-F01D-4EE8-9B47-4DF2058B8023/SimpleDemo.app/www/index.html
+2015-01-05 14:35:58.435 SimpleDemo[82455:2212354] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/A5431BF9-8677-4D93-A940-27F7C8C11F04/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:35:58.534 SimpleDemo[82455:2212354] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:35:58.534 SimpleDemo[82455:2212354] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:35:58.537 SimpleDemo[82455:2212354] Unlimited access to network resources
+2015-01-05 14:35:58.711 SimpleDemo[82455:2212354] [CDVTimer][keyboard] 0.052989ms
+2015-01-05 14:35:58.711 SimpleDemo[82455:2212354] [CDVTimer][TotalPluginStartup] 0.220001ms
+2015-01-05 14:35:58.770 SimpleDemo[82455:2212354] Resetting plugins due to page load.
+2015-01-05 14:35:58.936 SimpleDemo[82455:2212354] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/32F277BE-9881-44BA-AE7A-F72878ACA8DC/SimpleDemo.app/www/index.html
+2015-01-05 14:37:20.058 SimpleDemo[82681:2218126] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/F5B451F3-431D-4E66-A1F5-4BE493200126/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:37:20.165 SimpleDemo[82681:2218126] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:37:20.166 SimpleDemo[82681:2218126] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:37:20.169 SimpleDemo[82681:2218126] Unlimited access to network resources
+2015-01-05 14:37:20.360 SimpleDemo[82681:2218126] [CDVTimer][keyboard] 0.056982ms
+2015-01-05 14:37:20.360 SimpleDemo[82681:2218126] [CDVTimer][TotalPluginStartup] 0.222027ms
+2015-01-05 14:37:20.426 SimpleDemo[82681:2218126] Resetting plugins due to page load.
+2015-01-05 14:37:20.595 SimpleDemo[82681:2218126] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/1B6DB62F-2FE2-4A2D-96F6-6B6B1CC602D5/SimpleDemo.app/www/index.html
+2015-01-05 14:38:19.100 SimpleDemo[83105:2223229] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/A6FD35C1-8BCC-4F08-9DDB-AAB28734752E/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:38:19.196 SimpleDemo[83105:2223229] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:38:19.196 SimpleDemo[83105:2223229] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:38:19.201 SimpleDemo[83105:2223229] Unlimited access to network resources
+2015-01-05 14:38:19.352 SimpleDemo[83105:2223229] [CDVTimer][keyboard] 0.055015ms
+2015-01-05 14:38:19.352 SimpleDemo[83105:2223229] [CDVTimer][TotalPluginStartup] 0.220001ms
+2015-01-05 14:38:19.426 SimpleDemo[83105:2223229] Resetting plugins due to page load.
+2015-01-05 14:38:19.607 SimpleDemo[83105:2223229] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/3FA9913A-57ED-4D18-B547-F4708F2BD909/SimpleDemo.app/www/index.html
+2015-01-05 14:38:36.135 SimpleDemo[83310:2225310] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/894130C0-FE71-4DFF-8731-CC2C5824105F/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:38:36.250 SimpleDemo[83310:2225310] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:38:36.250 SimpleDemo[83310:2225310] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:38:36.253 SimpleDemo[83310:2225310] Unlimited access to network resources
+2015-01-05 14:38:36.417 SimpleDemo[83310:2225310] [CDVTimer][keyboard] 0.052989ms
+2015-01-05 14:38:36.418 SimpleDemo[83310:2225310] [CDVTimer][TotalPluginStartup] 0.222027ms
+2015-01-05 14:38:36.488 SimpleDemo[83310:2225310] Resetting plugins due to page load.
+2015-01-05 14:38:36.658 SimpleDemo[83310:2225310] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/D3A19D7B-51CA-4D92-A33C-F1C25F9E5249/SimpleDemo.app/www/index.html
+2015-01-05 14:38:54.467 SimpleDemo[83504:2227856] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/C07FF4B8-55F7-4865-950D-120A76439A96/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:38:54.586 SimpleDemo[83504:2227856] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:38:54.587 SimpleDemo[83504:2227856] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:38:54.591 SimpleDemo[83504:2227856] Unlimited access to network resources
+2015-01-05 14:38:54.772 SimpleDemo[83504:2227856] [CDVTimer][keyboard] 0.055969ms
+2015-01-05 14:38:54.772 SimpleDemo[83504:2227856] [CDVTimer][TotalPluginStartup] 0.224948ms
+2015-01-05 14:38:54.833 SimpleDemo[83504:2227856] Resetting plugins due to page load.
+2015-01-05 14:38:54.999 SimpleDemo[83504:2227856] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/4C856B72-F9F1-40BF-BA4D-484D815222B4/SimpleDemo.app/www/index.html
+2015-01-05 14:39:32.731 SimpleDemo[83703:2228770] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/1E73F645-80B7-42A2-B680-9D3C6FF64F76/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:39:32.821 SimpleDemo[83703:2228770] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:39:32.821 SimpleDemo[83703:2228770] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:39:32.824 SimpleDemo[83703:2228770] Unlimited access to network resources
+2015-01-05 14:39:32.955 SimpleDemo[83703:2228770] [CDVTimer][keyboard] 0.051975ms
+2015-01-05 14:39:32.955 SimpleDemo[83703:2228770] [CDVTimer][TotalPluginStartup] 0.214994ms
+2015-01-05 14:39:33.005 SimpleDemo[83703:2228770] Resetting plugins due to page load.
+2015-01-05 14:39:33.141 SimpleDemo[83703:2228770] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/422FB4F5-7956-47FC-BF4C-22CE33BF38B1/SimpleDemo.app/www/index.html
+2015-01-05 14:40:04.056 SimpleDemo[83901:2229842] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/B67D61AF-962D-4A4C-A755-7FE162139560/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:40:04.150 SimpleDemo[83901:2229842] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:40:04.151 SimpleDemo[83901:2229842] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:40:04.153 SimpleDemo[83901:2229842] Unlimited access to network resources
+2015-01-05 14:40:04.286 SimpleDemo[83901:2229842] [CDVTimer][keyboard] 0.052989ms
+2015-01-05 14:40:04.286 SimpleDemo[83901:2229842] [CDVTimer][TotalPluginStartup] 0.268996ms
+2015-01-05 14:40:04.343 SimpleDemo[83901:2229842] Resetting plugins due to page load.
+2015-01-05 14:40:04.479 SimpleDemo[83901:2229842] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/E4503B0B-98C4-4A29-B487-16D5E159DA74/SimpleDemo.app/www/index.html
+2015-01-05 14:40:32.899 SimpleDemo[84104:2233997] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/470E7A03-3691-47E4-BC8A-58B41D5B2F1D/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:40:33.007 SimpleDemo[84104:2233997] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:40:33.008 SimpleDemo[84104:2233997] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:40:33.011 SimpleDemo[84104:2233997] Unlimited access to network resources
+2015-01-05 14:40:33.187 SimpleDemo[84104:2233997] [CDVTimer][keyboard] 0.052989ms
+2015-01-05 14:40:33.187 SimpleDemo[84104:2233997] [CDVTimer][TotalPluginStartup] 0.220001ms
+2015-01-05 14:40:33.251 SimpleDemo[84104:2233997] Resetting plugins due to page load.
+2015-01-05 14:40:33.425 SimpleDemo[84104:2233997] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/292EDA08-9E88-4C3A-849D-87EB3D703A47/SimpleDemo.app/www/index.html
+2015-01-05 14:41:16.261 SimpleDemo[84299:2239595] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/5A1162A1-1459-4EAF-9A53-20D6A0A357CD/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:41:16.370 SimpleDemo[84299:2239595] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:41:16.371 SimpleDemo[84299:2239595] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:41:16.373 SimpleDemo[84299:2239595] Unlimited access to network resources
+2015-01-05 14:41:16.506 SimpleDemo[84299:2239595] [CDVTimer][keyboard] 0.120044ms
+2015-01-05 14:41:16.506 SimpleDemo[84299:2239595] [CDVTimer][TotalPluginStartup] 0.398993ms
+2015-01-05 14:41:16.556 SimpleDemo[84299:2239595] Resetting plugins due to page load.
+2015-01-05 14:41:16.701 SimpleDemo[84299:2239595] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/76D91540-97E6-48E6-9084-FE82F3747CC7/SimpleDemo.app/www/index.html
+2015-01-05 14:41:37.256 SimpleDemo[84503:2241368] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/3776AA82-5BCD-4337-BEFB-1E2F1451F72F/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:41:37.360 SimpleDemo[84503:2241368] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:41:37.360 SimpleDemo[84503:2241368] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:41:37.366 SimpleDemo[84503:2241368] Unlimited access to network resources
+2015-01-05 14:41:37.546 SimpleDemo[84503:2241368] [CDVTimer][keyboard] 0.075996ms
+2015-01-05 14:41:37.546 SimpleDemo[84503:2241368] [CDVTimer][TotalPluginStartup] 0.313997ms
+2015-01-05 14:41:37.613 SimpleDemo[84503:2241368] Resetting plugins due to page load.
+2015-01-05 14:41:37.791 SimpleDemo[84503:2241368] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/E9068C6B-7BF5-402C-B491-03BB8138E7EF/SimpleDemo.app/www/index.html
+2015-01-05 14:43:13.624 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:13.624 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:13.624 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "initialize",
+  [
+    "group.de.twentysteps.tirol",
+    "wormhole"
+  ]
+]
+2015-01-05 14:43:24.858 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:24.858 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:24.858 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Watch494007540",
+  "Watch",
+  "listenForMessage",
+  [
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:30.682 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:30.682 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:30.682 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    72.18767299782485,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:31.683 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:31.683 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:31.683 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    71.80984744336456,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:32.686 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:32.687 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:32.687 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    82.44415202643722,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:33.688 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:33.688 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:33.688 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    94.67362256255001,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:34.686 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:34.686 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:34.687 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    59.92848642636091,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:35.687 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:35.688 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:35.688 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    62.61462138500065,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:36.689 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:36.689 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:36.689 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    63.76993318554014,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:37.690 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:37.690 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:37.691 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    42.05404415261,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:38.690 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:38.691 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:38.691 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    11.60409483127296,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:39.692 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:39.692 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:39.692 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    55.32900188118219,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:40.693 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:40.693 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:40.693 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    66.16709381341934,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:41.693 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:41.693 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:41.694 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    17.52722410019487,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:42.694 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:42.695 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:42.695 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    72.55218012724072,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:43.694 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:43.694 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:43.694 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    60.62338834162802,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:44.694 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:44.695 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:44.695 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    55.94813276547939,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:45.695 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:45.695 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:45.695 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    14.34675571508706,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:46.696 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:46.696 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:46.696 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    40.8465021289885,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:47.697 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:47.697 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:47.697 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    69.07439006026834,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:48.698 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:48.698 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:48.698 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    81.01267518941313,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:49.698 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:49.698 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:49.699 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    49.47975617833436,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:50.699 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:50.699 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:50.700 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    57.57872115354985,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:51.699 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:51.700 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:51.700 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    88.92618159297854,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:52.701 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:52.701 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:52.701 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    65.0201999116689,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:53.701 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:53.701 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:53.701 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    27.62456873897463,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:54.702 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:54.702 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:54.702 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    95.16403318848461,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:55.701 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:55.702 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:55.702 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    56.67126001790166,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:56.703 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:56.703 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:56.703 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    50.95942537300289,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:57.704 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:57.704 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:57.704 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    71.12347548827529,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:58.705 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:58.705 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:58.705 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    13.43561315443367,
+    "testChannel"
+  ]
+]
+2015-01-05 14:43:59.705 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:43:59.705 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:43:59.706 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    95.12443542480469,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:00.706 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:00.706 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:00.707 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    48.90642834361643,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:01.706 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:01.706 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:01.707 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    54.50007871259004,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:02.707 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:02.708 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:02.708 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    94.47082383558154,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:03.708 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:03.708 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:03.708 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    11.69463794212788,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:04.708 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:04.709 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:04.709 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    3.269299445673823,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:05.709 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:05.710 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:05.710 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    43.55476670898497,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:06.709 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:06.710 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:06.710 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    35.49271649681032,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:07.710 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:07.711 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:07.711 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    16.46260488778353,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:08.712 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:08.712 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:08.712 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    75.53051020950079,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:09.712 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:09.712 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:09.712 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    25.30508579220623,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:10.713 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:10.713 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:10.713 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    77.19479338265955,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:11.713 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:11.713 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:11.714 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    98.26702650170773,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:12.714 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:12.714 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:12.714 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    86.4040644839406,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:13.715 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:13.715 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:13.715 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    21.72915155533701,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:14.715 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:14.715 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:14.715 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    8.363627293147147,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:15.715 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:15.716 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:15.716 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    93.72900377493352,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:16.716 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:16.717 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:16.717 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    92.77242047246546,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:17.718 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:17.718 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:17.718 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    94.90151579957455,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:18.718 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:18.719 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:18.719 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    22.1944215008989,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:19.719 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:19.719 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:19.719 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    12.25577557925135,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:20.719 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:20.719 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:20.719 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    85.41227839887142,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:21.720 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:21.720 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:21.720 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    55.39445970207453,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:22.720 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:22.721 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:22.721 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    63.02234809845686,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:23.721 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:23.722 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:23.722 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    27.33875790145248,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:24.722 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:24.722 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:24.722 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    94.90982042625546,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:25.722 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:25.723 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:25.723 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    26.97429740801454,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:26.723 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:26.724 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:26.724 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    31.51103474665433,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:27.724 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:27.725 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:27.725 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    82.64036383479834,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:28.725 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:28.725 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:28.725 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    76.99262844398618,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:29.727 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:29.727 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:29.727 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    23.99859842844307,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:30.658 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:30.658 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:30.658 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Watch494007541",
+  "Watch",
+  "listenForMessage",
+  [
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:30.727 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:30.727 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:30.727 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    31.24528960324824,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:31.726 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:31.726 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:31.727 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    81.64352180901915,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:32.727 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:32.727 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:32.728 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    61.83365003671497,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:33.728 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:33.728 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:33.729 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    63.91052808612585,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:34.729 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:34.729 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:34.729 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    38.10093405190855,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:35.730 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:35.730 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:35.730 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    18.64684780593961,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:36.730 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:36.730 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:36.730 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    94.29718295577914,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:37.731 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:37.731 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:37.731 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    8.959900122135878,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:38.732 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:38.732 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:38.732 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    53.75071244779974,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:39.733 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:39.733 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:39.733 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    18.17868307698518,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:40.734 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:40.734 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:40.734 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    87.83997765276581,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:41.735 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:41.735 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:41.735 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    98.28233660664409,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:42.735 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:42.735 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:42.735 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    47.0012339297682,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:43.736 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:43.736 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:43.736 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    35.65665362402797,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:44.735 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:44.736 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:44.736 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    92.89821714628488,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:45.737 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:45.737 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:45.737 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    68.90430236235261,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:46.736 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:46.736 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:46.736 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    72.60895883664489,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:47.738 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:47.738 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:47.738 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    33.58467342332006,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:48.739 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:48.739 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:48.739 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    71.59990372601897,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:49.740 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:49.740 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:49.740 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    9.333505178801715,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:50.741 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:50.741 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:50.742 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    27.97086981590837,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:51.741 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:51.741 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:51.742 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    74.2708814330399,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:52.742 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:52.742 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:52.742 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    66.10380969941616,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:53.743 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:53.743 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:53.744 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    94.99435999896377,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:54.744 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:54.744 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:54.744 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    61.09359199181199,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:55.743 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:55.743 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:55.743 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    1.454550004564226,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:56.743 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:56.743 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:56.744 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    98.65251372102648,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:57.745 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:57.745 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:57.745 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    63.05663262028247,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:58.745 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:58.745 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:58.745 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    14.44890373386443,
+    "testChannel"
+  ]
+]
+2015-01-05 14:44:59.746 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:44:59.747 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:44:59.747 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    72.77676549274474,
+    "testChannel"
+  ]
+]
+2015-01-05 14:45:00.748 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:45:00.748 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:45:00.748 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    20.3026509610936,
+    "testChannel"
+  ]
+]
+2015-01-05 14:45:01.748 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:45:01.748 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:45:01.748 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    97.03455495182425,
+    "testChannel"
+  ]
+]
+2015-01-05 14:45:02.749 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:45:02.749 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:45:02.749 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    96.13021726254374,
+    "testChannel"
+  ]
+]
+2015-01-05 14:45:03.749 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:45:03.750 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:45:03.750 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    25.58561603073031,
+    "testChannel"
+  ]
+]
+2015-01-05 14:45:04.750 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:45:04.751 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:45:04.751 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    40.18382751382887,
+    "testChannel"
+  ]
+]
+2015-01-05 14:45:05.751 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:45:05.751 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:45:05.751 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    88.75563412439078,
+    "testChannel"
+  ]
+]
+2015-01-05 14:45:06.751 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:45:06.751 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:45:06.751 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    79.43003918044269,
+    "testChannel"
+  ]
+]
+2015-01-05 14:45:07.752 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:45:07.752 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:45:07.752 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    96.66968949604779,
+    "testChannel"
+  ]
+]
+2015-01-05 14:45:08.751 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:45:08.751 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:45:08.752 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    11.06272554025054,
+    "testChannel"
+  ]
+]
+2015-01-05 14:45:09.753 SimpleDemo[84503:2241368] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:45:09.753 SimpleDemo[84503:2241368] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:45:09.753 SimpleDemo[84503:2241368] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    84.13433770183474,
+    "testChannel"
+  ]
+]
+2015-01-05 14:45:12.083 SimpleDemo[84711:2255026] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/D4D879DE-67F4-4FED-81C6-88FF6AF1DE68/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:45:12.175 SimpleDemo[84711:2255026] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:45:12.176 SimpleDemo[84711:2255026] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:45:12.178 SimpleDemo[84711:2255026] Unlimited access to network resources
+2015-01-05 14:45:12.338 SimpleDemo[84711:2255026] [CDVTimer][keyboard] 0.055015ms
+2015-01-05 14:45:12.338 SimpleDemo[84711:2255026] [CDVTimer][TotalPluginStartup] 0.218987ms
+2015-01-05 14:45:12.396 SimpleDemo[84711:2255026] Resetting plugins due to page load.
+2015-01-05 14:45:12.540 SimpleDemo[84711:2255026] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/56F54B0F-F653-4FDC-A8F5-04EC5C3E15E3/SimpleDemo.app/www/index.html
+2015-01-05 14:48:30.477 SimpleDemo[84917:2274292] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/A53E03AC-FA7F-4B00-86DA-68C0107098FB/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:48:30.593 SimpleDemo[84917:2274292] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:48:30.594 SimpleDemo[84917:2274292] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:48:30.597 SimpleDemo[84917:2274292] Unlimited access to network resources
+2015-01-05 14:48:30.765 SimpleDemo[84917:2274292] [CDVTimer][keyboard] 0.075996ms
+2015-01-05 14:48:30.765 SimpleDemo[84917:2274292] [CDVTimer][TotalPluginStartup] 0.308990ms
+2015-01-05 14:48:30.826 SimpleDemo[84917:2274292] Resetting plugins due to page load.
+2015-01-05 14:48:30.987 SimpleDemo[84917:2274292] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/0FA0A536-8164-4C38-9025-A1AB2E9396E2/SimpleDemo.app/www/index.html
+2015-01-05 14:48:54.608 SimpleDemo[85113:2277292] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/507815F2-3F88-4229-B4B9-918EE35EB8BF/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:48:54.691 SimpleDemo[85113:2277292] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:48:54.691 SimpleDemo[85113:2277292] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:48:54.693 SimpleDemo[85113:2277292] Unlimited access to network resources
+2015-01-05 14:48:54.834 SimpleDemo[85113:2277292] [CDVTimer][keyboard] 0.067949ms
+2015-01-05 14:48:54.834 SimpleDemo[85113:2277292] [CDVTimer][TotalPluginStartup] 0.250041ms
+2015-01-05 14:48:54.894 SimpleDemo[85113:2277292] Resetting plugins due to page load.
+2015-01-05 14:48:55.126 SimpleDemo[85113:2277292] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/130E4BB4-253A-4AB9-A1F7-9DEBD875D9A3/SimpleDemo.app/www/index.html
+2015-01-05 14:49:51.881 SimpleDemo[85325:2280889] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/3D21A6BC-D0E8-4D6A-8137-FEEC2A01580D/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:49:51.983 SimpleDemo[85325:2280889] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:49:51.984 SimpleDemo[85325:2280889] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:49:51.987 SimpleDemo[85325:2280889] Unlimited access to network resources
+2015-01-05 14:49:52.159 SimpleDemo[85325:2280889] [CDVTimer][keyboard] 0.078976ms
+2015-01-05 14:49:52.159 SimpleDemo[85325:2280889] [CDVTimer][TotalPluginStartup] 0.295997ms
+2015-01-05 14:49:52.223 SimpleDemo[85325:2280889] Resetting plugins due to page load.
+2015-01-05 14:49:52.406 SimpleDemo[85325:2280889] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/2E3AE2CD-A43D-4176-9E32-B01A6E2B9EFB/SimpleDemo.app/www/index.html
+2015-01-05 14:51:25.336 SimpleDemo[85525:2290427] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/60AC2EF9-D39F-483D-A060-CCB187A6AF2A/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:51:25.439 SimpleDemo[85525:2290427] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:51:25.439 SimpleDemo[85525:2290427] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:51:25.444 SimpleDemo[85525:2290427] Unlimited access to network resources
+2015-01-05 14:51:25.629 SimpleDemo[85525:2290427] [CDVTimer][keyboard] 0.073969ms
+2015-01-05 14:51:25.629 SimpleDemo[85525:2290427] [CDVTimer][TotalPluginStartup] 0.311017ms
+2015-01-05 14:51:25.690 SimpleDemo[85525:2290427] Resetting plugins due to page load.
+2015-01-05 14:51:25.847 SimpleDemo[85525:2290427] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/BDF94805-CA42-4E55-9766-0E2CD90AA47C/SimpleDemo.app/www/index.html
+2015-01-05 14:52:39.684 SimpleDemo[85734:2297108] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/B07B154D-B102-48B6-8373-9182EF73E223/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:52:39.797 SimpleDemo[85734:2297108] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:52:39.797 SimpleDemo[85734:2297108] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:52:39.800 SimpleDemo[85734:2297108] Unlimited access to network resources
+2015-01-05 14:52:39.941 SimpleDemo[85734:2297108] [CDVTimer][keyboard] 0.052989ms
+2015-01-05 14:52:39.941 SimpleDemo[85734:2297108] [CDVTimer][TotalPluginStartup] 0.218987ms
+2015-01-05 14:52:39.990 SimpleDemo[85734:2297108] Resetting plugins due to page load.
+2015-01-05 14:52:40.115 SimpleDemo[85734:2297108] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/5E805427-6C25-4B6A-8166-2C31F5A85707/SimpleDemo.app/www/index.html
+2015-01-05 14:53:19.244 SimpleDemo[85932:2302620] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/B3B7E45C-A00E-4698-9251-8F9C30AE2EC6/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:53:19.366 SimpleDemo[85932:2302620] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:53:19.366 SimpleDemo[85932:2302620] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:53:19.369 SimpleDemo[85932:2302620] Unlimited access to network resources
+2015-01-05 14:53:19.549 SimpleDemo[85932:2302620] [CDVTimer][keyboard] 0.074983ms
+2015-01-05 14:53:19.550 SimpleDemo[85932:2302620] [CDVTimer][TotalPluginStartup] 0.312984ms
+2015-01-05 14:53:19.611 SimpleDemo[85932:2302620] Resetting plugins due to page load.
+2015-01-05 14:53:19.778 SimpleDemo[85932:2302620] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/9E8B10D9-B531-49A1-8869-0FD5C46DC176/SimpleDemo.app/www/index.html
+2015-01-05 14:54:10.118 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:10.118 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:10.119 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "initialize",
+  [
+    "group.de.twentysteps.tirol",
+    "wormhole"
+  ]
+]
+2015-01-05 14:54:10.119 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:10.119 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:10.119 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Watch1270918972",
+  "Watch",
+  "listenForMessage",
+  [
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:11.120 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:11.120 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:11.120 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    58.65689360070974,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:12.121 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:12.121 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:12.122 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    8.205741411074996,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:13.122 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:13.123 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:13.123 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    49.70081308856606,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:14.124 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:14.124 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:14.124 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    20.41971539147198,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:15.124 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:15.124 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:15.124 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    74.82030724640936,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:16.125 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:16.125 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:16.126 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    46.82924975641072,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:17.126 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:17.126 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:17.127 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    71.71440785750747,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:18.127 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:18.128 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:18.128 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    17.15050889179111,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:19.129 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:19.129 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:19.129 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    34.61756801698357,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:20.129 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:20.130 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:20.130 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    90.42223116848618,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:21.132 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:21.132 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:21.132 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    95.24961074348539,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:22.131 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:22.131 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:22.131 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    57.64712227974087,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:23.131 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:23.131 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:23.131 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    98.60971083398908,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:24.131 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:24.132 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:24.132 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    21.42353791277856,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:25.132 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:25.132 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:25.132 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    69.81733362190425,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:26.132 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:26.133 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:26.133 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    75.43099892791361,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:27.133 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:27.133 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:27.133 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    48.03157814312726,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:28.134 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:28.134 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:28.134 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    47.62218643445522,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:29.135 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:29.135 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:29.135 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    65.34934709779918,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:30.136 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:30.136 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:30.136 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    97.90019760839641,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:31.137 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:31.138 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:31.138 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    48.33995439112186,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:32.138 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:32.138 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:32.138 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    16.57966526690871,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:33.137 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:33.137 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:33.138 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    90.85080146323889,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:34.138 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:34.138 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:34.138 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    14.88449890166521,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:35.138 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:35.138 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:35.138 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    2.163163363002241,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:36.141 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:36.141 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:36.141 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    98.88027079869062,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:37.139 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:37.139 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:37.140 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    50.11492266785353,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:38.141 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:38.141 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:38.141 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    14.37399869319052,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:39.142 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:39.142 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:39.142 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    11.5538485115394,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:40.143 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:40.144 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:40.144 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    1.745349285192788,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:41.144 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:41.144 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:41.146 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    93.68525105528533,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:42.145 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:42.145 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:42.146 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    60.77430979348719,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:43.145 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:43.145 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:43.145 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    70.10158421471715,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:44.145 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:44.145 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:44.145 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    12.4597804620862,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:45.147 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:45.147 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:45.148 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    11.66794896125793,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:46.147 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:46.147 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:46.148 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    29.86664755735546,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:47.147 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:47.147 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:47.147 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    29.64476665947586,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:48.147 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:48.147 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:48.147 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    18.10300648212433,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:49.149 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:49.149 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:49.150 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    35.41085394099355,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:50.149 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:50.149 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:50.150 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    57.91303643491119,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:51.151 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:51.151 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:51.151 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    18.85833761189133,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:52.152 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:52.152 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:52.152 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    48.97401388734579,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:53.152 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:53.152 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:53.152 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    58.90887547284365,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:54.152 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:54.152 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:54.153 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    8.906769729219377,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:55.153 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:55.153 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:55.153 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    79.81076233554631,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:56.154 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:56.154 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:56.154 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    23.682054807432,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:57.154 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:57.154 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:57.155 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    96.38669067062438,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:58.155 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:58.155 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:58.156 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    63.79042088519782,
+    "testChannel"
+  ]
+]
+2015-01-05 14:54:59.156 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:54:59.156 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:54:59.156 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    98.44368668273091,
+    "testChannel"
+  ]
+]
+2015-01-05 14:55:00.156 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:55:00.156 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:55:00.156 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    33.31520927604288,
+    "testChannel"
+  ]
+]
+2015-01-05 14:55:01.158 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:55:01.158 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:55:01.158 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    6.734100054018199,
+    "testChannel"
+  ]
+]
+2015-01-05 14:55:02.159 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:55:02.159 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:55:02.160 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    93.89381990768015,
+    "testChannel"
+  ]
+]
+2015-01-05 14:55:03.159 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:55:03.159 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:55:03.159 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    87.18929935712367,
+    "testChannel"
+  ]
+]
+2015-01-05 14:55:04.158 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:55:04.158 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:55:04.159 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    86.91969513893127,
+    "testChannel"
+  ]
+]
+2015-01-05 14:55:05.160 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:55:05.160 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:55:05.160 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    5.057342699728906,
+    "testChannel"
+  ]
+]
+2015-01-05 14:55:06.159 SimpleDemo[85932:2302620] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 14:55:06.160 SimpleDemo[85932:2302620] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 14:55:06.160 SimpleDemo[85932:2302620] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    78.98398071993142,
+    "testChannel"
+  ]
+]
+2015-01-05 14:56:03.439 SimpleDemo[86310:2318789] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/AA73EE56-A621-49CA-A260-045F2BE0A199/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:56:03.548 SimpleDemo[86310:2318789] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:56:03.548 SimpleDemo[86310:2318789] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:56:03.552 SimpleDemo[86310:2318789] Unlimited access to network resources
+2015-01-05 14:56:03.728 SimpleDemo[86310:2318789] [CDVTimer][keyboard] 0.081956ms
+2015-01-05 14:56:03.729 SimpleDemo[86310:2318789] [CDVTimer][TotalPluginStartup] 0.322998ms
+2015-01-05 14:56:03.791 SimpleDemo[86310:2318789] Resetting plugins due to page load.
+2015-01-05 14:56:03.946 SimpleDemo[86310:2318789] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/91E80C9D-63DC-4F9E-9A67-5952C269E607/SimpleDemo.app/www/index.html
+2015-01-05 14:57:26.149 SimpleDemo[86511:2325802] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/8DBB6738-B136-40B0-B27B-C78D07ABAAE3/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:57:26.251 SimpleDemo[86511:2325802] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:57:26.252 SimpleDemo[86511:2325802] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:57:26.254 SimpleDemo[86511:2325802] Unlimited access to network resources
+2015-01-05 14:57:26.428 SimpleDemo[86511:2325802] [CDVTimer][keyboard] 0.057995ms
+2015-01-05 14:57:26.428 SimpleDemo[86511:2325802] [CDVTimer][TotalPluginStartup] 0.223994ms
+2015-01-05 14:57:26.490 SimpleDemo[86511:2325802] Resetting plugins due to page load.
+2015-01-05 14:57:26.668 SimpleDemo[86511:2325802] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/76057A2D-9696-423F-B0D7-7F6CBEAE5D74/SimpleDemo.app/www/index.html
+2015-01-05 14:58:27.486 SimpleDemo[86714:2332145] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/0283A244-830F-4432-9139-EBE6E74CF4F5/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:58:27.572 SimpleDemo[86714:2332145] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:58:27.572 SimpleDemo[86714:2332145] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:58:27.575 SimpleDemo[86714:2332145] Unlimited access to network resources
+2015-01-05 14:58:27.693 SimpleDemo[86714:2332145] [CDVTimer][keyboard] 0.057995ms
+2015-01-05 14:58:27.693 SimpleDemo[86714:2332145] [CDVTimer][TotalPluginStartup] 0.230014ms
+2015-01-05 14:58:27.773 SimpleDemo[86714:2332145] Resetting plugins due to page load.
+2015-01-05 14:58:27.918 SimpleDemo[86714:2332145] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/07483531-A44B-407D-A085-23B6A8AE09D4/SimpleDemo.app/www/index.html
+2015-01-05 14:59:09.952 SimpleDemo[86914:2335670] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/BBCA12B2-B7D9-49FA-B332-A611E30BDC97/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:59:10.042 SimpleDemo[86914:2335670] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:59:10.043 SimpleDemo[86914:2335670] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:59:10.045 SimpleDemo[86914:2335670] Unlimited access to network resources
+2015-01-05 14:59:10.170 SimpleDemo[86914:2335670] [CDVTimer][keyboard] 0.058055ms
+2015-01-05 14:59:10.170 SimpleDemo[86914:2335670] [CDVTimer][TotalPluginStartup] 0.225961ms
+2015-01-05 14:59:10.232 SimpleDemo[86914:2335670] Resetting plugins due to page load.
+2015-01-05 14:59:10.450 SimpleDemo[86914:2335670] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/EE12D452-1193-4C56-8C76-17A33B14CFC4/SimpleDemo.app/www/index.html
+2015-01-05 14:59:33.157 SimpleDemo[87107:2337501] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/75B638A9-0185-4429-A478-1AF13E40E810/Library/Cookies/Cookies.binarycookies
+2015-01-05 14:59:33.258 SimpleDemo[87107:2337501] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 14:59:33.258 SimpleDemo[87107:2337501] Multi-tasking -> Device: YES, App: YES
+2015-01-05 14:59:33.260 SimpleDemo[87107:2337501] Unlimited access to network resources
+2015-01-05 14:59:33.467 SimpleDemo[87107:2337501] [CDVTimer][keyboard] 0.102997ms
+2015-01-05 14:59:33.468 SimpleDemo[87107:2337501] [CDVTimer][TotalPluginStartup] 0.425041ms
+2015-01-05 14:59:33.531 SimpleDemo[87107:2337501] Resetting plugins due to page load.
+2015-01-05 14:59:33.700 SimpleDemo[87107:2337501] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/0A0BB047-7B62-408F-97B7-D19B8EBCED6F/SimpleDemo.app/www/index.html
+2015-01-05 15:00:06.938 SimpleDemo[87307:2339214] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/6FD07CAA-6C7A-4A28-956E-C5D95FFD1BE3/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:00:07.060 SimpleDemo[87307:2339214] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:00:07.060 SimpleDemo[87307:2339214] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:00:07.063 SimpleDemo[87307:2339214] Unlimited access to network resources
+2015-01-05 15:00:07.235 SimpleDemo[87307:2339214] [CDVTimer][keyboard] 0.078022ms
+2015-01-05 15:00:07.235 SimpleDemo[87307:2339214] [CDVTimer][TotalPluginStartup] 0.317991ms
+2015-01-05 15:00:07.295 SimpleDemo[87307:2339214] Resetting plugins due to page load.
+2015-01-05 15:00:07.472 SimpleDemo[87307:2339214] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/9DDE4410-6CFC-45B4-AF29-25C39EDC14B8/SimpleDemo.app/www/index.html
+2015-01-05 15:00:30.255 SimpleDemo[87502:2340949] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/1756C8CC-FECE-43C7-929E-549D7CA07953/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:00:30.369 SimpleDemo[87502:2340949] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:00:30.370 SimpleDemo[87502:2340949] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:00:30.372 SimpleDemo[87502:2340949] Unlimited access to network resources
+2015-01-05 15:00:30.524 SimpleDemo[87502:2340949] [CDVTimer][keyboard] 0.056028ms
+2015-01-05 15:00:30.525 SimpleDemo[87502:2340949] [CDVTimer][TotalPluginStartup] 0.312984ms
+2015-01-05 15:00:30.571 SimpleDemo[87502:2340949] Resetting plugins due to page load.
+2015-01-05 15:00:30.705 SimpleDemo[87502:2340949] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/179BF593-6AE8-48A6-9274-BF843C8377C4/SimpleDemo.app/www/index.html
+2015-01-05 15:00:52.908 SimpleDemo[87700:2342136] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/7AE3641A-0C20-40B8-BD75-A4553CB93EF5/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:00:53.008 SimpleDemo[87700:2342136] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:00:53.008 SimpleDemo[87700:2342136] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:00:53.010 SimpleDemo[87700:2342136] Unlimited access to network resources
+2015-01-05 15:00:53.142 SimpleDemo[87700:2342136] [CDVTimer][keyboard] 0.055015ms
+2015-01-05 15:00:53.142 SimpleDemo[87700:2342136] [CDVTimer][TotalPluginStartup] 0.217974ms
+2015-01-05 15:00:53.189 SimpleDemo[87700:2342136] Resetting plugins due to page load.
+2015-01-05 15:00:53.343 SimpleDemo[87700:2342136] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/9EF27261-FC7D-4F66-8742-6954E684EEA9/SimpleDemo.app/www/index.html
+2015-01-05 15:01:10.257 SimpleDemo[87903:2344468] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/857DA8CB-4979-4700-A58E-9EE0985E4B3E/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:01:10.367 SimpleDemo[87903:2344468] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:01:10.367 SimpleDemo[87903:2344468] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:01:10.369 SimpleDemo[87903:2344468] Unlimited access to network resources
+2015-01-05 15:01:10.546 SimpleDemo[87903:2344468] [CDVTimer][keyboard] 0.052989ms
+2015-01-05 15:01:10.546 SimpleDemo[87903:2344468] [CDVTimer][TotalPluginStartup] 0.221014ms
+2015-01-05 15:01:10.609 SimpleDemo[87903:2344468] Resetting plugins due to page load.
+2015-01-05 15:01:10.768 SimpleDemo[87903:2344468] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/53E1EEB1-26B3-43AB-ADD8-908760EC82DA/SimpleDemo.app/www/index.html
+2015-01-05 15:01:29.858 SimpleDemo[88097:2346251] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/A4DF94F2-585D-407C-BA53-864256FF37C7/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:01:29.953 SimpleDemo[88097:2346251] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:01:29.953 SimpleDemo[88097:2346251] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:01:29.955 SimpleDemo[88097:2346251] Unlimited access to network resources
+2015-01-05 15:01:30.083 SimpleDemo[88097:2346251] [CDVTimer][keyboard] 0.068009ms
+2015-01-05 15:01:30.083 SimpleDemo[88097:2346251] [CDVTimer][TotalPluginStartup] 0.320971ms
+2015-01-05 15:01:30.130 SimpleDemo[88097:2346251] Resetting plugins due to page load.
+2015-01-05 15:01:30.280 SimpleDemo[88097:2346251] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/522155E4-B3B3-45CB-A8A6-E63C579797CC/SimpleDemo.app/www/index.html
+2015-01-05 15:01:47.250 SimpleDemo[88292:2347535] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/8D24861E-9EDD-490D-B8DB-9345C30E14BB/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:01:47.354 SimpleDemo[88292:2347535] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:01:47.354 SimpleDemo[88292:2347535] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:01:47.357 SimpleDemo[88292:2347535] Unlimited access to network resources
+2015-01-05 15:01:47.489 SimpleDemo[88292:2347535] [CDVTimer][keyboard] 0.054002ms
+2015-01-05 15:01:47.489 SimpleDemo[88292:2347535] [CDVTimer][TotalPluginStartup] 0.220954ms
+2015-01-05 15:01:47.538 SimpleDemo[88292:2347535] Resetting plugins due to page load.
+2015-01-05 15:01:47.679 SimpleDemo[88292:2347535] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/AAB0F4EB-64A6-4540-B0AC-D2CCAB48CFAD/SimpleDemo.app/www/index.html
+2015-01-05 15:02:48.553 SimpleDemo[88491:2350440] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/46FBE41A-6281-42CE-8F8B-4F523019BA25/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:02:48.649 SimpleDemo[88491:2350440] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:02:48.649 SimpleDemo[88491:2350440] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:02:48.651 SimpleDemo[88491:2350440] Unlimited access to network resources
+2015-01-05 15:02:48.789 SimpleDemo[88491:2350440] [CDVTimer][keyboard] 0.064015ms
+2015-01-05 15:02:48.789 SimpleDemo[88491:2350440] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-01-05 15:02:48.837 SimpleDemo[88491:2350440] Resetting plugins due to page load.
+2015-01-05 15:02:48.976 SimpleDemo[88491:2350440] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/42A3342F-6FB5-48B6-98A9-4BB01B9C91D0/SimpleDemo.app/www/index.html
+2015-01-05 15:03:09.074 SimpleDemo[88687:2352116] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/0AD79C71-13D9-4A3E-A949-60B27EB53536/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:03:09.174 SimpleDemo[88687:2352116] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:03:09.174 SimpleDemo[88687:2352116] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:03:09.177 SimpleDemo[88687:2352116] Unlimited access to network resources
+2015-01-05 15:03:09.301 SimpleDemo[88687:2352116] [CDVTimer][keyboard] 0.054002ms
+2015-01-05 15:03:09.301 SimpleDemo[88687:2352116] [CDVTimer][TotalPluginStartup] 0.217974ms
+2015-01-05 15:03:09.361 SimpleDemo[88687:2352116] Resetting plugins due to page load.
+2015-01-05 15:03:09.498 SimpleDemo[88687:2352116] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/F5A0887E-959E-474E-902E-8E43B09E9A02/SimpleDemo.app/www/index.html
+2015-01-05 15:03:25.087 SimpleDemo[88687:2352130] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-01-05 15:03:49.120 SimpleDemo[88884:2355369] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/97A5186E-B73C-4EED-92FB-2965201EA5B5/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:03:49.219 SimpleDemo[88884:2355369] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:03:49.220 SimpleDemo[88884:2355369] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:03:49.223 SimpleDemo[88884:2355369] Unlimited access to network resources
+2015-01-05 15:03:49.365 SimpleDemo[88884:2355369] [CDVTimer][keyboard] 0.100017ms
+2015-01-05 15:03:49.365 SimpleDemo[88884:2355369] [CDVTimer][TotalPluginStartup] 0.401974ms
+2015-01-05 15:03:49.413 SimpleDemo[88884:2355369] Resetting plugins due to page load.
+2015-01-05 15:03:49.560 SimpleDemo[88884:2355369] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/050AE731-874C-4E01-9359-064A80B4325B/SimpleDemo.app/www/index.html
+2015-01-05 15:04:12.454 SimpleDemo[89088:2357440] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/2D54171F-85F2-43BB-9868-30AEEE595B96/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:04:12.572 SimpleDemo[89088:2357440] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:04:12.572 SimpleDemo[89088:2357440] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:04:12.576 SimpleDemo[89088:2357440] Unlimited access to network resources
+2015-01-05 15:04:12.760 SimpleDemo[89088:2357440] [CDVTimer][keyboard] 0.054955ms
+2015-01-05 15:04:12.760 SimpleDemo[89088:2357440] [CDVTimer][TotalPluginStartup] 0.221014ms
+2015-01-05 15:04:12.833 SimpleDemo[89088:2357440] Resetting plugins due to page load.
+2015-01-05 15:04:12.990 SimpleDemo[89088:2357440] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/56B884D1-B688-442A-BC15-803790762666/SimpleDemo.app/www/index.html
+2015-01-05 15:05:14.541 SimpleDemo[89287:2359532] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/5D9A497F-5ADF-4911-B4D9-FB48C2CB5C9A/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:05:14.674 SimpleDemo[89287:2359532] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:05:14.675 SimpleDemo[89287:2359532] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:05:14.679 SimpleDemo[89287:2359532] Unlimited access to network resources
+2015-01-05 15:05:14.862 SimpleDemo[89287:2359532] [CDVTimer][keyboard] 0.052989ms
+2015-01-05 15:05:14.862 SimpleDemo[89287:2359532] [CDVTimer][TotalPluginStartup] 0.218987ms
+2015-01-05 15:05:14.925 SimpleDemo[89287:2359532] Resetting plugins due to page load.
+2015-01-05 15:05:15.099 SimpleDemo[89287:2359532] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/082C7E22-C176-4612-9411-D9A4AFAA6E13/SimpleDemo.app/www/index.html
+2015-01-05 15:05:49.320 SimpleDemo[89484:2362497] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/3A8E07D1-D746-4AB3-A006-A49B0A5E9BE2/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:05:49.404 SimpleDemo[89484:2362497] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:05:49.405 SimpleDemo[89484:2362497] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:05:49.408 SimpleDemo[89484:2362497] Unlimited access to network resources
+2015-01-05 15:05:49.537 SimpleDemo[89484:2362497] [CDVTimer][keyboard] 0.060022ms
+2015-01-05 15:05:49.537 SimpleDemo[89484:2362497] [CDVTimer][TotalPluginStartup] 0.234008ms
+2015-01-05 15:05:49.592 SimpleDemo[89484:2362497] Resetting plugins due to page load.
+2015-01-05 15:05:49.734 SimpleDemo[89484:2362497] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/606F4BEC-0E9E-4D0A-BE13-8439741A8871/SimpleDemo.app/www/index.html
+2015-01-05 15:06:23.066 SimpleDemo[89690:2365516] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/51A475BA-B51E-4F34-830F-313C950643C5/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:06:23.172 SimpleDemo[89690:2365516] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:06:23.173 SimpleDemo[89690:2365516] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:06:23.175 SimpleDemo[89690:2365516] Unlimited access to network resources
+2015-01-05 15:06:23.365 SimpleDemo[89690:2365516] [CDVTimer][keyboard] 0.073969ms
+2015-01-05 15:06:23.365 SimpleDemo[89690:2365516] [CDVTimer][TotalPluginStartup] 0.308990ms
+2015-01-05 15:06:23.430 SimpleDemo[89690:2365516] Resetting plugins due to page load.
+2015-01-05 15:06:23.604 SimpleDemo[89690:2365516] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/40E8F85E-F622-41D9-AC25-32F4F1888543/SimpleDemo.app/www/index.html
+2015-01-05 15:06:38.926 SimpleDemo[89889:2367497] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/3022B699-F4E6-4387-B147-5744DE9B2CF8/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:06:39.042 SimpleDemo[89889:2367497] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:06:39.043 SimpleDemo[89889:2367497] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:06:39.046 SimpleDemo[89889:2367497] Unlimited access to network resources
+2015-01-05 15:06:39.225 SimpleDemo[89889:2367497] [CDVTimer][keyboard] 0.072002ms
+2015-01-05 15:06:39.225 SimpleDemo[89889:2367497] [CDVTimer][TotalPluginStartup] 0.310004ms
+2015-01-05 15:06:39.291 SimpleDemo[89889:2367497] Resetting plugins due to page load.
+2015-01-05 15:06:39.460 SimpleDemo[89889:2367497] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/B6A68C30-23BC-4EC4-9C8A-78660D6A8813/SimpleDemo.app/www/index.html
+2015-01-05 15:08:01.320 SimpleDemo[90091:2373240] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/8A6C0019-F1CE-4CEE-A6AE-4C5FB0135A5A/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:08:01.427 SimpleDemo[90091:2373240] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:08:01.428 SimpleDemo[90091:2373240] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:08:01.432 SimpleDemo[90091:2373240] Unlimited access to network resources
+2015-01-05 15:08:01.618 SimpleDemo[90091:2373240] [CDVTimer][keyboard] 0.054955ms
+2015-01-05 15:08:01.618 SimpleDemo[90091:2373240] [CDVTimer][TotalPluginStartup] 0.252008ms
+2015-01-05 15:08:01.677 SimpleDemo[90091:2373240] Resetting plugins due to page load.
+2015-01-05 15:08:01.864 SimpleDemo[90091:2373240] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/41F02591-DD2A-4232-B358-333329F10711/SimpleDemo.app/www/index.html
+2015-01-05 15:08:51.145 SimpleDemo[90293:2379224] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Data/Application/F248B392-9FAC-4AB3-88A9-71FE7A70A6AC/Library/Cookies/Cookies.binarycookies
+2015-01-05 15:08:51.245 SimpleDemo[90293:2379224] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-05 15:08:51.245 SimpleDemo[90293:2379224] Multi-tasking -> Device: YES, App: YES
+2015-01-05 15:08:51.248 SimpleDemo[90293:2379224] Unlimited access to network resources
+2015-01-05 15:08:51.454 SimpleDemo[90293:2379224] [CDVTimer][keyboard] 0.075042ms
+2015-01-05 15:08:51.454 SimpleDemo[90293:2379224] [CDVTimer][TotalPluginStartup] 0.312030ms
+2015-01-05 15:08:51.519 SimpleDemo[90293:2379224] Resetting plugins due to page load.
+2015-01-05 15:08:51.702 SimpleDemo[90293:2379224] Finished load of: file:///Users/bastianbrodbeck/Library/Developer/CoreSimulator/Devices/115D5C53-9DA8-46D9-BBFD-DC2DAC8CEB31/data/Containers/Bundle/Application/DB713322-A748-4EDB-B6D6-887092101E32/SimpleDemo.app/www/index.html
+2015-01-05 15:08:51.782 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:08:51.782 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:08:51.782 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "initialize",
+  [
+    "group.de.twentysteps.tirol",
+    "wormhole"
+  ]
+]
+2015-01-05 15:08:51.782 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:08:51.782 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:08:51.782 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Watch300566833",
+  "Watch",
+  "listenForMessage",
+  [
+    "testChannel"
+  ]
+]
+2015-01-05 15:08:52.782 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:08:52.782 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:08:52.783 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    54.18694973923266,
+    "testChannel"
+  ]
+]
+2015-01-05 15:08:53.783 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:08:53.783 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:08:53.784 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    6.917282636277378,
+    "testChannel"
+  ]
+]
+2015-01-05 15:08:54.784 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:08:54.784 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:08:54.784 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    48.93058473244309,
+    "testChannel"
+  ]
+]
+2015-01-05 15:08:55.785 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:08:55.785 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:08:55.786 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    81.62798485718668,
+    "testChannel"
+  ]
+]
+2015-01-05 15:08:56.787 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:08:56.787 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:08:56.787 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    20.07104381918907,
+    "testChannel"
+  ]
+]
+2015-01-05 15:08:57.788 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:08:57.788 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:08:57.789 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    44.45328214205801,
+    "testChannel"
+  ]
+]
+2015-01-05 15:08:58.788 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:08:58.789 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:08:58.789 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    3.277663863264024,
+    "testChannel"
+  ]
+]
+2015-01-05 15:08:59.789 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:08:59.790 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:08:59.790 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    21.23518041335046,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:00.791 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:00.791 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:00.791 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    6.275261286646128,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:01.792 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:01.792 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:01.792 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    99.29040661081672,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:02.792 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:02.792 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:02.792 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    39.14619735442102,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:03.793 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:03.793 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:03.793 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    67.39364983513951,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:04.793 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:04.794 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:04.794 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    59.83350707683712,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:05.794 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:05.794 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:05.794 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    58.15109068062156,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:06.795 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:06.795 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:06.795 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    57.46121329721063,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:07.794 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:07.795 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:07.795 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    3.118216851726174,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:08.795 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:08.795 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:08.795 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    83.62055323086679,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:09.795 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:09.796 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:09.796 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    68.35927818901837,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:10.796 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:10.796 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:10.796 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    73.79718092270195,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:11.797 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:11.797 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:11.798 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    25.98799951374531,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:12.798 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:12.798 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:12.798 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    29.46245213970542,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:13.798 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:13.799 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:13.799 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    60.6522522168234,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:14.799 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:14.800 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:14.800 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    76.04283436667174,
+    "testChannel"
+  ]
+]
+2015-01-05 15:09:15.799 SimpleDemo[90293:2379224] CDVPlugin class CDVWatch (pluginName: Watch) does not exist.
+2015-01-05 15:09:15.800 SimpleDemo[90293:2379224] ERROR: Plugin 'Watch' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-05 15:09:15.800 SimpleDemo[90293:2379224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Watch",
+  "passMessage",
+  [
+    89.27767602726817,
+    "testChannel"
+  ]
+]
