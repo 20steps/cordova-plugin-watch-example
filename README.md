@@ -10,6 +10,15 @@ In Xcode you need to set the development team for your app target and WatchKit E
 
 Once you configured your *App Group* you need to change these in the code. For this replace *group.testgroup* in the *InterfaceController.m* (SimpleDemo WatchKit Extension) with your group identifier. Do the same in the app.js (in xcode under www/js/app.js)
 
+### Build the cordova app
+You need node.js and bower installed
+
+Enter the SimpleDemo directory and run:
+```
+npm install
+bower install
+```
+
 ### Run App
 Select the  *SimpleDemo WatchKit App* scheme, build an run it. This should open the watchkit simulator and run the watch app. In the also opened iPhone Simulator start the SimpleDemo app. Now both apps should communicate.
 
