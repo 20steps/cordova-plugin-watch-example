@@ -5,6 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		0D9D0EFB7061476BAB9A1D24 /* CDVDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = C6B178AD95F340FA86B8774B /* CDVDevice.m */; };
 		1D3623260D0F684500981E51 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* AppDelegate.m */; };
@@ -40,6 +41,9 @@
 		7E7966E51810823500FA85AD /* icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DB1810823500FA85AD /* icon-76@2x.png */; };
 		7E7966E61810823500FA85AD /* icon-small.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DC1810823500FA85AD /* icon-small.png */; };
 		7E7966E71810823500FA85AD /* icon-small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DD1810823500FA85AD /* icon-small@2x.png */; };
+		9117E9C41A63C9300082BBE0 /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = EC16EEB367F54447BA2FAAB7 /* MMWormhole.m */; };
+		9117E9C51A63C93D0082BBE0 /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = EC16EEB367F54447BA2FAAB7 /* MMWormhole.m */; };
+		9117E9C61A63C9490082BBE0 /* CDVWatch.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C90B5BCC24A436398323ED5 /* CDVWatch.m */; };
 		91FBE9901A5AD34900B67856 /* InterfaceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91FBE98F1A5AD34900B67856 /* InterfaceController.m */; };
 		91FBE9931A5AD34900B67856 /* NotificationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91FBE9921A5AD34900B67856 /* NotificationController.m */; };
 		91FBE9951A5AD34900B67856 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91FBE9941A5AD34900B67856 /* Images.xcassets */; };
@@ -588,6 +592,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9117E9C61A63C9490082BBE0 /* CDVWatch.m in Sources */,
+				9117E9C51A63C93D0082BBE0 /* MMWormhole.m in Sources */,
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
@@ -601,7 +607,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				91FBE9AE1A5AD57500B67856 /* MMWormhole.m in Sources */,
+				9117E9C41A63C9300082BBE0 /* MMWormhole.m in Sources */,
 				91FBE9931A5AD34900B67856 /* NotificationController.m in Sources */,
 				91FBE9901A5AD34900B67856 /* InterfaceController.m in Sources */,
 			);
